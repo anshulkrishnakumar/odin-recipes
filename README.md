@@ -2,7 +2,7 @@
 
 https://anshulkrishnakumar.github.io/odin-recipes/
 
-techstack: html
+techstack: html, css
 
 - a recipe book on various dishes
 
