@@ -1,6 +1,6 @@
-# odin-recipes
+# recipe-book
 
-https://anshulkrishnakumar.github.io/odin-recipes/
+https://anshulkrishnakumar.github.io/recipe-book/
 
 techstack: html, css
 
